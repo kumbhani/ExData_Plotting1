@@ -1,3 +1,7 @@
+## IMPORTANT NOTE
+To use the plot1 through plot4 R scripts, you will need to first uncompress 
+household_power_consumption.txt,zip file.
+
 ## Introduction
 
 This assignment uses data from
